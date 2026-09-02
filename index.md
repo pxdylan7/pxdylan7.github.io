@@ -1,4 +1,4 @@
-# Hi, I'm Dylaneee 👋
+# Hi, I'm Dylan👋
 
 ## About Me
 [A few sentences: who you are, what you're interested in — both as an innovator and outside of that.]
