@@ -1,18 +1,18 @@
 # Hi, I'm Dylan👋
 
 ## About Me
-[A few sentences: who you are, what you're interested in — both as an innovator and outside of that.]
+I am 15 years old, I go to the Webb Schools and I live in California. I am interested in soccer, video games, house music, stocks, and going out with friends. As a innovater I a interested in creating and building on ideas to establish one central idea. 
 
 ## What Shaped Me
-[An experience or two that influenced who you are today.]
+Two experiences that has shaped me into the person I am today is the MoneyBall Wharton Summer Program and playing soccer in Spain. 
 
 ## What Inspires Me
-[Things that excite or motivate you — could be people, ideas, projects, books, etc.]
+Some people who inspire me to be better everyday are Cristiano Ronaldo, Kimchi, and Max Dowman
 
 ## My Goals
-[What you're hoping to learn, build, or become.]
+I am hoping to learn more on how to innovate things indivudally and learning more complex code. 
 
 ## Something I Think Is Cool
-Check out [this site/project/article](https://example.com) — it's something I find really interesting.
+Check out (https://www.transfermarkt.us/cristiano-ronaldo/leistungsdaten/spieler/8198/saison/spa) — it's something I find really interesting.
 
-![A photo or image that represents you](https://example.com/image.jpg)
+<img width="1206" height="2126" alt="A8654343-CB9D-4504-9BE5-016473537169_1_201_a" src="https://github.com/user-attachments/assets/2e96be96-0e92-4793-a5ce-739c429d5677" />
