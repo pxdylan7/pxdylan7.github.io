@@ -7,7 +7,7 @@ I am 15 years old, I go to the Webb Schools and I live in California. I am inter
 Two experiences that has shaped me into the person I am today is the MoneyBall Wharton Summer Program and playing soccer in Spain. 
 
 ## What Inspires Me
-Some people who inspire me to be better everyday are Cristiano Ronaldo, Kimchi, and Max Dowman
+Some people who inspire me to be better everyday are Cristiano Ronaldo, and Max Dowman
 
 ## My Goals
 I am hoping to learn more on how to innovate things indivudally and learning more complex code. 
