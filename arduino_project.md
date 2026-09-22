@@ -12,4 +12,4 @@ What I tired: The hardest part for me throughout this project was getting the LE
 
 Final Result: 
 
-Photos: 
+Photos
