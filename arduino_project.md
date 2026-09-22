@@ -1,7 +1,6 @@
 ---
 title: "Motion Activated Sound and Light Source"
-layout: default
----
+
 
 # Unit 1 Summative: Motion Activated Sound and Light Source
 
