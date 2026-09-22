@@ -1,6 +1,4 @@
 
-
-
 # Unit 1 Summative: Motion Activated Sound and Light Source
 
 ## Overview
