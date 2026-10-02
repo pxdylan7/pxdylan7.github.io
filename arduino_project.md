@@ -1,9 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=header" width="100%" alt="" />
+</p>
+
 <h1 align="center">Unit 1 Summative: Motion Activated Sound and Light Source</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno" />
+  <img src="https://img.shields.io/badge/Sensor-HC--SR04-FF6F00?style=for-the-badge" alt="HC-SR04" />
+  <img src="https://img.shields.io/badge/Code-C++-5C2D91?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+</p>
 
 ---
 
 ## Overview
 
+> [!NOTE]
 > For this project I built a Motion Activated Sound and Light Source, a Arudino Uno device that uses a Ultrasonic Distance Sensor to figure out how close a is, and then reacts with different lights and sounds depending on that distance. If I were to put my hand farther or close the device reacts differently and changes what is it doing, making it feel like more of a interaction.
 
 ---
@@ -20,7 +31,8 @@ I used HC-SR04 ultrasonic distance sensor. I learned how to wire it and code it 
 
 ### What I tired
 
-The hardest part for me throughout this project was getting the LEDs, buzzer, and the sensor to all work together at the same time without having errors with anything. At first some of the combinations of the code did not work for me and didn't run correctly. With the help of artifical intelligence, I was able to establish a clear code that made all of the components of the device work. Also, the use of tone and noTone got everything to run smoothly.
+> [!IMPORTANT]
+> The hardest part for me throughout this project was getting the LEDs, buzzer, and the sensor to all work together at the same time without having errors with anything. At first some of the combinations of the code did not work for me and didn't run correctly. With the help of artifical intelligence, I was able to establish a clear code that made all of the components of the device work. Also, the use of tone and noTone got everything to run smoothly.
 
 ---
 
@@ -155,7 +167,8 @@ void playABC() {
 
 ## Technical Tidbit
 
-The HC-SR04 ultrasonic distance sensor measures distance by sending out sound waves while measuring how long it takes for those waves to bounce back from an object. The sensor has two silver cylinders, these cylinders are the transmitter and receiver that allow the sensor to measure the distance. The sensor is overall connceted to the Arduino Uno. If you refer to the picture of my device, the orange and blue wires connect the ultrasonic sensor to digital pins on the Arduino. The Arduino sends a electrical singal through the Trig pin. Overall telling the sensor to send out a burst of sound at about 40kHz, which is above the area that humans can hear.
+> [!TIP]
+> The HC-SR04 ultrasonic distance sensor measures distance by sending out sound waves while measuring how long it takes for those waves to bounce back from an object. The sensor has two silver cylinders, these cylinders are the transmitter and receiver that allow the sensor to measure the distance. The sensor is overall connceted to the Arduino Uno. If you refer to the picture of my device, the orange and blue wires connect the ultrasonic sensor to digital pins on the Arduino. The Arduino sends a electrical singal through the Trig pin. Overall telling the sensor to send out a burst of sound at about 40kHz, which is above the area that humans can hear.
 
 ---
 
@@ -168,3 +181,7 @@ There was times where I recived support from my peers. For example, at the begin
 ## Use-Case Reflection
 
 This device could be useful to someone who needs to know if something is nearby without being able to hear or be able to see it. At the moment, my device only can detect movement and how far it is, it can't tell the difference between different movments like a hand wave, an object, or someone walking by. To make it useful for real life situations, I would need to find out a way to filter unintentional, maybe by add a small camera or studying the distance patterns or movement patterns. If I kept developing this idea I would rely on wiring. Since adding more complex systems and trigger systems, this would overall mean more complex wiring and foucus on specfic components. Even when building this, this was a struggle I faced through the building process.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" width="100%" alt="" />
+</p>
