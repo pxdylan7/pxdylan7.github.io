@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=140&section=header" width="100%" alt="" />
-</p>
-
 <h1 align="center">Unit 1 Summative: Motion Activated Sound and Light Source</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Uno" />
-  <img src="https://img.shields.io/badge/Sensor-HC--SR04-FF6F00?style=for-the-badge" alt="HC-SR04" />
-  <img src="https://img.shields.io/badge/Code-C++-5C2D91?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
 
 ---
 
