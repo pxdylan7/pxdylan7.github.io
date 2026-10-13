@@ -7,9 +7,6 @@ title: "Code Autopsy: Webby Dash"
 
 Webby Dash is a Geometry Dash style game written in Python with pygame. A square moves forward by itself without any action by the person playing the game, and the player jumps over spikes and onto blocks to reach the end of the level. 
 
-My game is in Python instead of HTML and JavaScript, so for each part of the worksheet I found the pygame version of the same idea.
-
----
 
 ## 1. The Canvas
 
