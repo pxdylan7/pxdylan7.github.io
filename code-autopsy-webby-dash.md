@@ -165,3 +165,6 @@ When the player crashes, the score is displayed on the center top of the window.
 ```python
 draw_text(str(progress) + "% complete", font, HEIGHT // 2 - 50)
 ```
+### Goals/Reflection 
+
+Today, I saw my classes games and code, and I was suprised and interested in many of them. Some were simple and fun and some were complex and fun too. My goal for the future for my game is to potentially add more features in the game, create different color sections throughou the level, and understand every line of code througout my game. 
