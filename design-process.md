@@ -6,9 +6,11 @@ title: Design Process – Unit 4
 
 ## Interview
 
-<!-- I talked to my peer/classmate/friend. We disscussed his habits, what he prioritizes, his schedule, and what is happening in his life. I learned his specfic habits that I didn't know about him, specfically his study habits.  
+I talked to my peer/classmate/friend. We disscussed his habits, what he prioritizes, his schedule, and what is happening in his life. I learned his specfic habits that I didn't know about him, specfically his study habits.  
 
-<!-- One of the most importnat things for this person is his balance between school and social life. He wants to exel in schools while maintaing a good connection with friends and family. A problem I found was his study habits and mangament of his life.
+## Principles
+
+One of the most importnat things for this person is his balance between school and social life. He wants to exel in schools while maintaing a good connection with friends and family. A problem I found was his study habits and mangament of his life.
 
 ## Raw Ideas
 
@@ -24,6 +26,7 @@ title: Design Process – Unit 4
 10. Check messages only during planned breaks
 11. Leave your phone in another room during work periods, or set limits
 12. Pick study partners to check in with, or keep study based relationships. 
+
 ## Gallery Sketches
 
 ### 1. No Cell Phone
@@ -63,8 +66,8 @@ Use a planner or calendar instead of relying on student portals. It helps you mo
 
 ## Experiment & Path Forward
 
-<!-- Locked in factime study and work periods with friends -->
+Locked in factime study and work periods with friends
 
 ## Reflections
 
-<!-- I learned more problem solving, and idea creating skills as this required me to create ideas and solve a specfic problem. The most interesting thing was getting to know my friends life better, learning his habits and challenges. I will take more advancded listeing skills and understanding off others. -->
+I learned more problem solving, and idea creating skills as this required me to create ideas and solve a specfic problem. The most interesting thing was getting to know my friends life better, learning his habits and challenges. I will take more advancded listeing skills and understanding off others.
